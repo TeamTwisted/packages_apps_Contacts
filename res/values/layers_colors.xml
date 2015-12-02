@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright (C) 2015 Layers Project
+<!-- Copyright (C) 2015 The Layers Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -13,7 +13,12 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
+
 <resources>
-    <color name="list_item_name_text_color">#ff000000</color>
-    <color name="editor_account_header_bg">#ffeeeeee</color>
-</resources>
+    <color name="photo_text_bar_bg">#7F000000</color>
+    <color name="text_color_white">@android:color/white</color>
+    <color name="editor_account_header_bg">#EEEEEE</color>
+    <color name="list_item_name_text_color">#ff212121</color>
+    <color name="white">@android:color/white</color>
+    <color name="edit_kind_text_appearance_text_color">#363636</color>
+</resources> 
